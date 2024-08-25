@@ -1,0 +1,15 @@
+google.generativeai
+google-cloud-storage==2.10.0
+google-api-core
+langchain-google-genai
+chromadb
+pydantic>=1.10,<2.0
+langchain
+langchain-cli
+langchain-community
+faiss-cpu==1.7.3
+transformers==4.21.0
+torch==1.12.1
+python-dotenv
+
+
